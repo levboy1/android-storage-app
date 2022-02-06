@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="storage_item_details_text_size">16sp</dimen>
+    <dimen name="delete_dialog_warning_text_size">18sp</dimen>
+    <dimen name="activity_details_layout_height">0dp</dimen>
+    <dimen name="activity_main_layout_margin">24dp</dimen>
+    <dimen name="delete_item_dialog_padding">24dip</dimen>
+    <dimen name="new_item_dialog_padding">24dip</dimen>
+    <dimen name="button_add_photo_width">128dp</dimen>
+    <dimen name="button_add_photo_height">64dp</dimen>
+    <dimen name="fregment_details_name_text_size">32sp</dimen>
+</resources>

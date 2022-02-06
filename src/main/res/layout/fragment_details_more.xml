@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:stretchColumns="0">
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="@string/fragment_details_more_name_text"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+        <TextView
+            android:id="@+id/detail_tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Name placeholder"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="@string/fragment_details_more_code_text"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+        <TextView
+            android:id="@+id/detail_tvCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Code placeholder"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="@string/fragment_details_more_price_text"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+        <TextView
+            android:id="@+id/detail_tvPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Price placeholder"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="@string/fragment_details_more_description_text"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+        <TextView
+            android:id="@+id/detail_tvDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Description placeholder"
+            tools:textSize="@dimen/storage_item_details_text_size"/>
+    </TableRow>
+</TableLayout>

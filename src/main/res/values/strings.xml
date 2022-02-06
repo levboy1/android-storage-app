@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StorageApp</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="new_storage_item">New Storage Item</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="delete_storage_item_dialog_title">Delete item(s)</string>
+    <string name="button_yes">Yes</string>
+    <string name="delete_storage_item_warning">Recovering item(s) after deleting is not possible! Do you want to delete?</string>
+    <string name="details">Details</string>
+    <string name="main">Main</string>
+    <string name="code">Code</string>
+    <string name="currency">(£)</string>
+    <string name="add_image">Add image</string>
+    <string name="fragment_details_main_name_text">Name</string>
+    <string name="fragment_details_more_name_text">Name</string>
+    <string name="fragment_details_more_code_text">Code</string>
+    <string name="fragment_details_more_description_text">Description</string>
+    <string name="fragment_details_more_price_text">Price</string>
+
+</resources>
